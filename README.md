@@ -6,7 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sana2024&label=Profile%20views&color=0e75b6&style=plastic" alt="sana2024" /> </p>
 
 - 🔭 I’m currently working on [Meet2play](https://onelink.to/m2play)
-
+- 📫 How to reach me **sanaomervi01@gmail.com**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sana omer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sana omer" height="20" width="30" /></a>
